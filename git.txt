@@ -1,1 +1,1 @@
-ECHO is on.
+file created for testing
