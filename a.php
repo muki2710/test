@@ -1,1 +1,0 @@
-a file content has deleted
